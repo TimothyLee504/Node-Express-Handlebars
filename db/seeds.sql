@@ -1,0 +1,1 @@
+INSERT INTO `burger_db`.`burgers` (`burger_name`, `devoured`) VALUES ('Double quarter pounder', '0'), ('Baconator', '0'), ('Donut burger', '0')
